@@ -1,2 +1,4 @@
 Wordnet retrieved from:
 http://wordnet.princeton.edu/wordnet/download/current-version/#nix
+
+wordnet.0.2.300.nt.gz - wordnet dataset converted into ntriples from generated vital block
